@@ -1,1 +1,1 @@
-alert("CORS works, JSInfo sucks");
+alert("For the JSInfo course");
